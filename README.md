@@ -71,8 +71,8 @@ Edit files in `docs/source/`:
 ### Change Theme
 
 Edit `docs/source/conf.py` and modify the `html_theme` variable. Popular themes include:
-- `alabaster` (default)
-- `sphinx_rtd_theme` (Read the Docs theme)
+- `sphinx_rtd_theme` (Read the Docs theme - currently configured)
+- `alabaster` (Sphinx default theme)
 - `furo`
 - `pydata_sphinx_theme`
 
